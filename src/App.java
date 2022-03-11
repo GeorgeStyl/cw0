@@ -18,9 +18,10 @@ public class App {
 
             
         }
-        myReader.close();
-        l;
+        catch ( FileNotFoundException e){
 
+        }
+      
 
 
     }
